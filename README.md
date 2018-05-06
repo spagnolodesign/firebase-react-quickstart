@@ -11,7 +11,6 @@ npm i && npm run start
 
 ## Meta
 
-Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@valentinog.com
 
 ## License
 
