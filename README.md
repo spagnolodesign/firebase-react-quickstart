@@ -1,16 +1,16 @@
-# webpack-4-quickstart
-> Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode
+# Quickstart with React and Firebase for full webapp
+> A basic boilerplate complete of Authentication (Email and Phone) and simple CRUD operation.
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
 
 ## Development
 
 ```bash
-npm i && npm run start
+npm i && npm start
 ```
+## env
 
-## Meta
-
+Create your own .env file in the root folder in order to set the local variable and configure Firebase with your own app.
 
 ## License
 
