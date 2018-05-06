@@ -3,6 +3,9 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
 
+
+![alt text](https://raw.githubusercontent.com/spagnolodesign/firebase-react-quickstart/master/auth.png)
+
 ## Development
 
 ```bash

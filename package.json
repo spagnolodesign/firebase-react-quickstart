@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/spagnolodesign/firebase-react-quickstart"
   },
   "keywords": [],
-  "author": "",
+  "author": "https://github.com/spagnolodesign",
   "license": "MIT",
   "bugs": {
     "url": ""
   },
-  "homepage": "",
+  "homepage": "https://github.com/spagnolodesign/firebase-react-quickstart/blob/master/README.md",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.4",
