@@ -1,4 +1,4 @@
-# Quickstart with React and Firebase for full webapp
+# Quickstart with React and Firebase
 > A basic boilerplate complete of Authentication (Email and Phone) and simple CRUD operation.
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
