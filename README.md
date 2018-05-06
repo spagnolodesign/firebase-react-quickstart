@@ -11,6 +11,14 @@ npm i && npm start
 ## env
 
 Create your own .env file in the root folder in order to set the local variable and configure Firebase with your own app.
+```bash
+API_KEY=
+AUTH_DOMAIN=
+DATABASE_URL=
+PROJECT_ID=
+STORAGE_BUCKET=
+MESSAGING_SENDER_ID=
+```
 
 ## License
 
