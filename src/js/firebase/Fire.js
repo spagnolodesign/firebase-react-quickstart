@@ -1,15 +1,17 @@
 import * as firebase from "firebase";
 
+console.log(process.env.API_KEY);
+
 class Fire {
 
   constructor() {
     const config = {
-      apiKey: "AIzaSyDHfDBF5_57Py_SxnsW5un4VUy8Om_wSyM",
-      authDomain: "test-expo-3a1ef.firebaseapp.com",
-      databaseURL: "https://test-expo-3a1ef.firebaseio.com",
-      projectId: "test-expo-3a1ef",
-      storageBucket: "test-expo-3a1ef.appspot.com",
-      messagingSenderId: "321537572961"
+      apiKey: process.env.API_KEY,
+      authDomain: process.env.AUTH_DOMAIN,
+      databaseURL: process.env.DATABASE_URL,
+      projectId: process.env.PROJECT_ID,
+      storageBucket: process.env.STORAGE_BUCKET,
+      messagingSenderId: process.env.MESSAGING_SENDER_ID
     };
 
     firebase.initializeApp(config);

@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-firebase-quickstart",
+  "name": "firebase-react-quickstart",
   "version": "1.0.0",
   "description": "Simple full JS WebApp boilerplate with React and Firebase, Auth and simple CRUD operation with real time updates.",
   "main": "index.js",
@@ -40,6 +40,7 @@
     "webpack-dev-server": "^3.1.1"
   },
   "dependencies": {
+    "dotenv-webpack": "^1.5.5",
     "firebase": "^4.13.0",
     "history": "^4.7.2",
     "npm": "^5.8.0",
