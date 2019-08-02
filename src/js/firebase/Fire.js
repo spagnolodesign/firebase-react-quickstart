@@ -46,7 +46,6 @@ class Fire {
   logInUserWithCode (code) {
     window.confirmationResult.confirm(code).then(function (result) {
       var user = result.user;
-      console.log(user);
     }).catch(function (error) {
       console.log(error);
     });
